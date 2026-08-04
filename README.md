@@ -1,7 +1,6 @@
 # PotroCao
 
-# Integrantes: 
-Ana Sophia e Lívia 
+# Integrantes: Ana Sophia e Lívia 
 
 # Tema:
 
