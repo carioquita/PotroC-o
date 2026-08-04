@@ -55,3 +55,5 @@ Requisitos Funcionais
 - Atendimentos cancelados não podem ser concluídos posteriormente.
 - Cada atendimento deve estar associado a apenas um pet.
 - Cada funcionário visualiza apenas os atendimentos sob sua responsabilidade.
+
+
