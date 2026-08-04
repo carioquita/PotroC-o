@@ -32,16 +32,13 @@ Requisitos Funcionais
 - Finalização de pedidos.
 - Confirmação antes da conclusão da compra.
 - Exibição de mensagem de compra realizada com sucesso.
-- Visualização da agenda diária dos funcionários.
 - Consulta dos pets agendados para atendimento.
 - Acompanhamento dos serviços em andamento.
-- Visualização das informações do pet e do tutor.
-- Contato com o tutor durante o atendimento.
+- Visualização das informações do pet.
 - Cancelamento de atendimentos.
 - Finalização de atendimentos.
 - Registro de serviços concluídos.
 - Navegação entre as principais telas por meio do menu inferior.
-- Acesso ao perfil do usuário.
 
 ---
 
@@ -49,17 +46,11 @@ Requisitos Funcionais
 
 - Interface responsiva para dispositivos móveis.
 - Navegação intuitiva e de fácil utilização.
-- Tempo de resposta rápido para as operações do sistema.
 - Armazenamento seguro dos dados dos usuários.
-- Autenticação para acesso às funcionalidades restritas.
-- Criptografia das senhas dos usuários.
 - Garantia da integridade das informações cadastradas.
 - Alta disponibilidade do sistema.
-- Compatibilidade com dispositivos Android e iOS.
 - Padronização visual em todas as telas.
 - Mensagens claras de confirmação e erro.
-- Facilidade de manutenção e atualização do sistema.
-- Adoção de boas práticas de acessibilidade.
 - Proteção dos dados pessoais dos usuários.
 
 - Atendimentos cancelados não podem ser concluídos posteriormente.
