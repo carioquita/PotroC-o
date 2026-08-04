@@ -8,13 +8,13 @@
 Esta plataforma tem o objetivo de facilitar a rotina de um pet shop, reunindo em um único sistema as principais ferramentas necessárias para a gestão do negócio. A ideia é tornar o dia a dia mais organizado, ágil e eficiente, permitindo que os profissionais dediquem mais tempo ao atendimento dos clientes e ao cuidado com os pets.
 O sistema permite o cadastro e o gerenciamento de funcionários, clientes, pets, produtos e serviços, mantendo todas as informações centralizadas e de fácil acesso. Além disso, oferece funcionalidades para controle de
 estoque, agendamento de serviços, registro de vendas e compras de cada cliente.
-Cada pet possui um cadastro próprio, onde é possível armazenar informações importantes, como espécie, raça, idade e seu respectivo tutor, facilitando o acompanhamento ao longo do tempo. Da mesma forma, os serviços ## ## oferecidos pelo pet shop podem ser cadastrados e organizados para tornar os atendimentos mais práticos.
+Cada pet possui um cadastro próprio, onde é possível armazenar informações importantes, como espécie, raça, idade e seu respectivo tutor, facilitando o acompanhamento ao longo do tempo. Da mesma forma, os serviços oferecidos pelo pet shop podem ser cadastrados e organizados para tornar os atendimentos mais práticos.
 Com uma interface simples e intuitiva, a plataforma busca reduzir processos manuais, minimizar erros e proporcionar uma experiência mais eficiente tanto para a equipe quanto para os clientes. Dessa forma, o sistema ## contribui para uma gestão mais organizada, oferecendo maior controle sobre as operações do pet shop e auxiliando na tomada de decisões do negócio.
 
 # Requisitos do Projeto:
 
 
-## Requisitos Funcionais
+Requisitos Funcionais
 
 - Cadastro de clientes.
 - Cadastro de funcionários.
@@ -62,15 +62,6 @@ Com uma interface simples e intuitiva, a plataforma busca reduzir processos manu
 - Adoção de boas práticas de acessibilidade.
 - Proteção dos dados pessoais dos usuários.
 
----
-
-## Regras de Negócio
-
-- Cada pet deve estar vinculado a um único cliente.
-- Apenas funcionários autenticados podem acessar e gerenciar os atendimentos.
-- Um pedido só pode ser finalizado quando houver pelo menos um produto no carrinho.
-- Toda compra deve ser confirmada antes da sua conclusão.
-- Um atendimento só pode ser finalizado após ter sido iniciado.
 - Atendimentos cancelados não podem ser concluídos posteriormente.
 - Cada atendimento deve estar associado a apenas um pet.
 - Cada funcionário visualiza apenas os atendimentos sob sua responsabilidade.
