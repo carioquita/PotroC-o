@@ -20,3 +20,7 @@ Com uma interface intuitiva e uma identidade visual própria, o PotroCão busca 
 https://claude.ai/artifact/Sh5ZwRubDBTHY9ukrxMJQi#2d408d2e-20e2.m405a6cwpmf.61
 
 
+### Diagrama de Caso de Uso:
+
+<img width="2752" height="1536" alt="Diagrama de Caso de Uso" src="https://github.com/user-attachments/assets/81b5a878-5561-44ed-b0ef-8004e7106eee" />
+
