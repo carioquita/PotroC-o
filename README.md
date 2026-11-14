@@ -1,59 +1,22 @@
 # PotroCao
 
-# Integrantes: Ana Sophia e Lívia 
-
-# Tema:
-
-Esta plataforma tem o objetivo de facilitar a rotina de um pet shop, reunindo em um único sistema as principais ferramentas necessárias para a gestão do negócio. A ideia é tornar o dia a dia mais organizado, ágil e eficiente, permitindo que os profissionais dediquem mais tempo ao atendimento dos clientes e ao cuidado com os pets.
-O sistema permite o cadastro e o gerenciamento de funcionários, clientes, pets, produtos e serviços, mantendo todas as informações centralizadas e de fácil acesso. Além disso, oferece funcionalidades para controle de
-estoque, agendamento de serviços, registro de vendas e compras de cada cliente.
-Cada pet possui um cadastro próprio, onde é possível armazenar informações importantes, como espécie, raça, idade e seu respectivo tutor, facilitando o acompanhamento ao longo do tempo. Da mesma forma, os serviços oferecidos pelo pet shop podem ser cadastrados e organizados para tornar os atendimentos mais práticos.
-Com uma interface simples e intuitiva, a plataforma busca reduzir processos manuais, minimizar erros e proporcionar uma experiência mais eficiente tanto para a equipe quanto para os clientes. Dessa forma, o sistema ## contribui para uma gestão mais organizada, oferecendo maior controle sobre as operações do pet shop e auxiliando na tomada de decisões do negócio.
-
-# Requisitos do Projeto:
+### Integrantes: 
+Ana Sophia e Lívia 
 
 
-Requisitos Funcionais
+### Tema da Aplicação – PotroCão
 
-- Cadastro de clientes.
-- Cadastro de funcionários.
-- Cadastro de pets vinculados aos seus respectivos tutores.
-- Login e autenticação de usuários.
-- Tela inicial personalizada para clientes.
-- Exibição de categorias de produtos.
-- Pesquisa de produtos.
-- Exibição de promoções.
-- Visualização do catálogo de produtos.
-- Visualização dos detalhes dos produtos.
-- Adição de produtos ao carrinho.
-- Alteração da quantidade de produtos no carrinho.
-- Remoção de produtos do carrinho.
-- Finalização de pedidos.
-- Confirmação antes da conclusão da compra.
-- Exibição de mensagem de compra realizada com sucesso.
-- Consulta dos pets agendados para atendimento.
-- Acompanhamento dos serviços em andamento.
-- Visualização das informações do pet.
-- Cancelamento de atendimentos.
-- Finalização de atendimentos.
-- Registro de serviços concluídos.
-- Navegação entre as principais telas por meio do menu inferior.
 
----
+A aplicação **PotroCão** tem como tema o desenvolvimento de um sistema de gerenciamento para pet shops, com o objetivo de centralizar e facilitar a administração das principais atividades do estabelecimento. A plataforma busca tornar a rotina do negócio mais organizada, prática e eficiente, reunindo em um único ambiente as ferramentas necessárias para o controle de clientes, pets, funcionários, produtos, categorias, serviços, estoque, agendamentos, vendas e compras.
 
-## Requisitos Não Funcionais
+O sistema permite realizar o cadastro, a consulta, a edição e o gerenciamento dessas informações, facilitando o acesso aos dados e o acompanhamento das atividades do pet shop. Por meio do cadastro individual dos clientes e de seus respectivos pets, é possível manter informações organizadas, como espécie, raça, idade e dados do tutor, contribuindo para um atendimento mais personalizado e para o acompanhamento dos animais.
 
-- Interface responsiva para dispositivos móveis.
-- Navegação intuitiva e de fácil utilização.
-- Armazenamento seguro dos dados dos usuários.
-- Garantia da integridade das informações cadastradas.
-- Alta disponibilidade do sistema.
-- Padronização visual em todas as telas.
-- Mensagens claras de confirmação e erro.
-- Proteção dos dados pessoais dos usuários.
+Além disso, a aplicação possibilita organizar os serviços oferecidos pelo estabelecimento, controlar os agendamentos e gerenciar os funcionários responsáveis pelos atendimentos. Também contempla funcionalidades voltadas ao controle de produtos e estoque, bem como ao registro de vendas e compras, permitindo acompanhar a movimentação de mercadorias e auxiliar na administração dos recursos do negócio.
 
-- Atendimentos cancelados não podem ser concluídos posteriormente.
-- Cada atendimento deve estar associado a apenas um pet.
-- Cada funcionário visualiza apenas os atendimentos sob sua responsabilidade.
+Com uma interface intuitiva e uma identidade visual própria, o PotroCão busca proporcionar uma experiência simples e agradável aos usuários, reduzindo processos manuais, minimizando erros e facilitando o fluxo de trabalho. Dessa forma, a aplicação tem como finalidade contribuir para uma gestão mais organizada e eficiente, oferecendo maior controle sobre as operações do pet shop e auxiliando na tomada de decisões.
+
+### Requisitos do Projeto:
+
+https://claude.ai/artifact/Sh5ZwRubDBTHY9ukrxMJQi#2d408d2e-20e2.m405a6cwpmf.61
 
 
